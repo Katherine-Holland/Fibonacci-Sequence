@@ -1,4 +1,6 @@
 # Fibonacci Sequence Visualization
+![Project Banner](images/spiral.jpg)
+
 
 This project contains a Python script to compute and visualize the Fibonacci sequence using recursion, memoization, and the `matplotlib` library for plotting. The code uses an efficient caching mechanism to store previously calculated Fibonacci numbers, speeding up the computation of higher values in the sequence.
 
@@ -37,3 +39,5 @@ This project contains a Python script to compute and visualize the Fibonacci seq
 ## Example Output
 
 The script plots the Fibonacci sequence values from `n = 1` to `n = 10`, displaying the familiar exponential growth of the sequence.
+
+![Chart](images/plot.png)
