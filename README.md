@@ -22,7 +22,7 @@ This project contains a Python script to compute and visualize the Fibonacci seq
 3. Run the script with:
 
     ```bash
-    python fibonacci.py
+    python main.py
     ```
 
 4. The program will display a plot showing the Fibonacci numbers for the first 10 values of `n`.
