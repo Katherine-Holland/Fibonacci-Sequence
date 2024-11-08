@@ -1,5 +1,5 @@
 # Fibonacci Sequence Visualization
-![Project Banner](images/spiral.jpg)
+![Project Banner](images/flower.jpg)
 
 
 This project contains a Python script to compute and visualize the Fibonacci sequence using recursion, memoization, and the `matplotlib` library for plotting. The code uses an efficient caching mechanism to store previously calculated Fibonacci numbers, speeding up the computation of higher values in the sequence.
